@@ -1,0 +1,10 @@
+/* My Stylesheet */
+* {
+    background-color: rgb(240, 161, 240);
+}
+
+.home{
+    text-align: center;
+    border: 10px;
+    border-color: yellow;
+}
